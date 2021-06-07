@@ -1,0 +1,13 @@
+/*seletor propriedade valor */
+body {
+    background-image: url(img/background.jpg);
+    background-repeat: no-repeat; /*para não preencher tudo - ficar repetindo*/
+    /*background-position: 100% 10%;*/
+    background-position: center center;
+    background-size: cover; /*cobrir toda a pagina*/
+    background-attachment: fixed; /*fixa a imagen background na pagina*/
+}
+
+p {
+    color: #222222;
+}

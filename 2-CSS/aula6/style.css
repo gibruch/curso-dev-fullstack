@@ -1,0 +1,16 @@
+/*seletor propriedade valor */
+body {
+    background: #cecece;
+}
+
+p {
+    color: #222222;
+}
+
+.foto-principal {
+    width: 200px;
+    border: 5px solid white; /* shorthand*/
+    border-radius: 50% 50% 50% 50%;
+    margin: 30px 30px 30px 30px;
+    padding: 10px;
+}
